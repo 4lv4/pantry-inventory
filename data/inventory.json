@@ -1,0 +1,58 @@
+{
+    "Äpple":
+    {
+        "type" : "Fruit", 
+        "unit" : "St" , 
+        "amount": 5 ,
+        "pantry_location" : "Frige",
+        "best_befor" : null,
+        "always_stock" : false,
+        "limit" : 2,
+        "Ready_to_eat": true,
+        "prep_time" : null ,
+        "tags" : ["snack", "sweet"],
+        "nutrition": { "kcal" : 55,
+                        "carbs" : 11,
+                        "fat" : 0,
+                        "protein" : 0
+         }
+    },
+
+    "Klementin":
+    {
+        "type" : "Fruit", 
+        "unit" : "St" , 
+        "amount": 5 ,
+        "pantry_location" : "Frige",
+        "best_befor" : null,
+        "always_stock" : false,
+        "limit" : 2,
+        "Ready_to_eat": true,
+        "prep_time" : null ,
+        "tags" : ["snack", "sweet"],
+        "nutrition": { "kcal" : 47,
+                        "carbs" : 12,
+                        "fat" : 0,
+                        "protein" : 0
+         }
+    },
+
+    "Paprika":
+    {
+        "type" : "Vegetabl", 
+        "unit" : "St" , 
+        "amount": 5 ,
+        "pantry_location" : "Frige",
+        "best_befor" : null,
+        "always_stock" : false,
+        "limit" : 2,
+        "Ready_to_eat": true,
+        "prep_time" : null ,
+        "tags" : ["snack", "sweet"],
+        "nutrition": { "kcal" : 20,
+                        "carbs" : 4.5,
+                        "fat" : 0,
+                        "protein" : 0
+         }
+    }
+}

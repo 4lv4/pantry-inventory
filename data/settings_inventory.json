@@ -1,0 +1,16 @@
+{
+    "Name":
+    {
+        "type" : ["Fruit", "Vedgebals", "Spices" , "Konserver", "Mejeri"] , 
+        "unit" : ["g", "ml", "item"] , 
+        "amount": null,
+        "pantry_location" : ["Frige", "Frezz", "Snack cubberd", "bread cubberd", "Pantry"],
+        "best_befor" : null,
+        "always_stock" : [true, false],
+        "limit" : null,
+        "Ready_to_eat": [true, false],
+        "prep_time" : null ,
+        "tags" : [],
+        "nutrition": { }
+    }
+}

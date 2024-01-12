@@ -1,4 +1,4 @@
-class Ingredience:
+class Ingredience: # Class object for the seperat ingridiens
     #Initializing all the variables to keep track of
     def __init__(self, name, foodtype, unit, amount, nutrition = None, tags = None, pantry_location = None, best_before = None, always_stock = False, limit = '1000', ready_to_eat = False, preptime = None):
         self._info = {'name': name, 'foodtype': foodtype, 'unit':unit, 'amount': amount, 'nutrition': nutrition,'tags': tags, 'pantry_location': pantry_location, 
