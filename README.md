@@ -1,4 +1,24 @@
 # pantry-inventory
+Mer detaljer
+
+- JSON fil med big boy dict med all data atm.
+
+- Resept fil
+  - Funtion json recet till class object
+  -  class object för varige recept
+
+- Ingridiens fil
+  - Funtion json  till class object
+  -  class object för varige ingridiens
+
+
+
+      
+
+
+
+
+
 08-01-2024
 Plan: web app som interfacar till en json fil med vad vi har för mat hemma.
 
