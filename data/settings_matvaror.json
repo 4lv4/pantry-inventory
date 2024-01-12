@@ -10,6 +10,7 @@
         "limit" : null,
         "Ready_to_eat": [true, false],
         "prep_time" : null ,
-        "tags" : []
+        "tags" : [],
+        "nutrition": { }
     }
 }
